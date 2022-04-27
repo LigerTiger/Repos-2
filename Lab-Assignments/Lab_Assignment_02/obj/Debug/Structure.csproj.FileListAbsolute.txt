@@ -1,0 +1,7 @@
+E:\C#\HandsOn\Lab-Assignments\MyStruct\bin\Debug\MyStruct.exe.config
+E:\C#\HandsOn\Lab-Assignments\MyStruct\bin\Debug\MyStruct.exe
+E:\C#\HandsOn\Lab-Assignments\MyStruct\bin\Debug\MyStruct.pdb
+E:\C#\HandsOn\Lab-Assignments\MyStruct\obj\Debug\Structure.csproj.AssemblyReference.cache
+E:\C#\HandsOn\Lab-Assignments\MyStruct\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+E:\C#\HandsOn\Lab-Assignments\MyStruct\obj\Debug\MyStruct.exe
+E:\C#\HandsOn\Lab-Assignments\MyStruct\obj\Debug\MyStruct.pdb
